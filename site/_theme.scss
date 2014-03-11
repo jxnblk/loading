@@ -7,14 +7,28 @@ $mid-gray: #a9acac;
 $dark-gray: #30393f;
 $dark-gray: #292c2f;
 
-//$red: #f43;
+$mid-gray: #afb99f;
+
+$cream: #dfe9cf;
 $red: #f54;
-$purple: #f49;
-$slate: #769;
+$purple: #aa4f80;
+$blue: #40bfc0;
+$green: #50cf77;
+$orange: #efaf50;
+$dark: #202c2f;
+
 
 .bg-red { background-color: $red; }
 .bg-purple { background-color: $purple; }
-.bg-slate { background-color: $slate; }
+.bg-blue { background-color: $blue; }
+.bg-green { background-color: $green; }
+.bg-orange { background-color: $orange; }
+.bg-dark { background-color: $dark; }
+.bg-cream { background-color: $cream; }
+
+.dark { color: $dark; }
+
+.cream { color: $cream; }
 
 .white { color: #fff; }
 .blue { color: $blue; }
@@ -25,7 +39,6 @@ $slate: #769;
 .red { color: $red; }
 
 .bg-white { background-color: #fff; }
-.bg-blue { background-color: $blue; }
 .bg-light-gray { background-color: $light-gray; }
 .bg-mid-gray { background-color: $mid-gray; }
 .bg-dark-gray { background-color: $dark-gray; }
