@@ -8,6 +8,12 @@ $dark-gray: #30393f;
 
 //$red: #f43;
 $red: #f54;
+$purple: #f49;
+$slate: #769;
+
+.bg-red { background-color: $red; }
+.bg-purple { background-color: $purple; }
+.bg-slate { background-color: $slate; }
 
 .white { color: #fff; }
 .blue { color: $blue; }
@@ -22,8 +28,6 @@ $red: #f54;
 .bg-light-gray { background-color: $light-gray; }
 .bg-mid-gray { background-color: $mid-gray; }
 .bg-dark-gray { background-color: $dark-gray; }
-
-.bg-red { background-color: $red; }
 
 .fill-white { fill: #fff; }
 .fill-blue { fill: $blue; }
@@ -45,10 +49,9 @@ body {
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
+  color: #fff;
   &:hover {
-    color: darken($blue, 10%);
+    color: rgba(#000,.6);
   }
 }
 
@@ -125,4 +128,6 @@ a {
 */
 
 .bg-cover { background-size: cover; }
+
+.geomicon { width: 1em; height: 1em; vertical-align: -0.125em; }
 
