@@ -25,6 +25,9 @@ and be prepared to create fallbacks.
 
 http://caniuse.com/svg-smil
 
+Also be aware of user experience issues with perceptual loading time.
+Subtler is usually better.
+
 ---
 
 The MIT License (MIT)
