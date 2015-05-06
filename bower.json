@@ -1,0 +1,21 @@
+{
+  "name": "loading",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jxnblk/loading",
+  "main": [
+    "./loading-balls.svg",
+    "./loading-bars.svg",
+    "./loading-bubbles.svg",
+    "./loading-cubes.svg",
+    "./loading-cylon.svg",
+    "./loading-spin.svg",
+    "./loading-spinning-bubbles.svg",
+    "./loading-spokes.svg"
+  ],
+  "keywords": [
+    "loading",
+    "ajax",
+    "svg"
+  ],
+  "license": "MIT"
+}
