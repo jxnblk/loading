@@ -1,7 +1,7 @@
 # Loading...
 This could take a while
 
-http://jxnblk.github.io/loading
+http://jxnblk.com/loading
 
 ## Usage
 
