@@ -3,6 +3,18 @@ This could take a while
 
 http://jxnblk.com/loading
 
+## Getting Started
+
+```bash
+npm install loading-svg
+```
+
+*Or*
+
+```bash
+bower install loading
+```
+
 ## Usage
 
 ```html
