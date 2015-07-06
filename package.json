@@ -1,0 +1,21 @@
+{
+  "name": "loading-svg",
+  "version": "1.0.0",
+  "description": "Animated SVG loading indicators",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxnblk/loading.git"
+  },
+  "keywords": [
+    "svg",
+    "loading",
+    "ajax",
+    "ui"
+  ],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxnblk/loading/issues"
+  },
+  "homepage": "https://github.com/jxnblk/loading#readme"
+}
