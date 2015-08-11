@@ -15,7 +15,7 @@
     <animate attributeName="opacity" from="1" to=".1" dur="1s" repeatCount="indefinite" begin="0.5s"/>
   </path>
   <path opacity=".1" d="M14 0 H18 V8 H14 z" transform="rotate(225 16 16)">
-    <animate attributeName="opacity" from="1" to=".1" dur="1s" repeatCount="indefinite" begin="0.675s"/>
+    <animate attributeName="opacity" from="1" to=".1" dur="1s" repeatCount="indefinite" begin="0.625s"/>
   </path>
   <path opacity=".1" d="M14 0 H18 V8 H14 z" transform="rotate(270 16 16)">
     <animate attributeName="opacity" from="1" to=".1" dur="1s" repeatCount="indefinite" begin="0.75s"/>
